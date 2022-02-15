@@ -12,4 +12,5 @@ class ApiController extends Controller
         $postcards = Postcard::all();
         return json_encode($postcards);
     }
+
 }
