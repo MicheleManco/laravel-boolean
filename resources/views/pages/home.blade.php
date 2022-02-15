@@ -1,6 +1,6 @@
 @extends('layouts.main-layout')
 @section('content')
 
-<p>ciao</p>
+<p>ciao ciao</p>
 <postcards></postcards>
 @endsection
